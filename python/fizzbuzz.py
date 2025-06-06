@@ -10,4 +10,3 @@ def fizzbuzz(n):
     else:
         return n
 
-
